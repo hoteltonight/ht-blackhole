@@ -12,4 +12,3 @@ end
 route '*' do
   200
 end
-
